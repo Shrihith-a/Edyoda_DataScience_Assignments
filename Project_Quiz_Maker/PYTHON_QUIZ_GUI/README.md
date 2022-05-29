@@ -7,7 +7,7 @@
 ## You are Excellent!!
 ![PYTHON_QUIZ_GUI](great.png)
 
-#### Score >= 10 and Socre <= 20 
+#### Score >= 10 and Score <= 20 
 ## You can be better !!
 ![PYTHON_QUIZ_GUI](ok.png)
 
