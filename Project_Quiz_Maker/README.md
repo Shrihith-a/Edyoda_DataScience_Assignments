@@ -10,12 +10,12 @@
 
 # Score >= 20 
 # You are Excellent!!
-![Project_Quiz_Maker/PYTHON_QUIZ_GUI](great.png)
+![https://github.com/Shrihith-a/Edyoda_Python_Assignments/blob/main/Project_Quiz_Maker/PYTHON_QUIZ_GUI](great.png)
 
 # Score >= 10 and Socre <= 20 
 # You are Excellent!!
-![Project_Quiz_Maker/PYTHON_QUIZ_GUI](ok.png)
+![https://github.com/Shrihith-a/Edyoda_Python_Assignments/blob/main/Project_Quiz_Maker/PYTHON_QUIZ_GUI](ok.png)
 
 # Score <= 10
 # Better luck next time !!
-![Project_Quiz_Maker/PYTHON_QUIZ_GUI](bad.png)
+![https://github.com/Shrihith-a/Edyoda_Python_Assignments/blob/main/Project_Quiz_Maker/PYTHON_QUIZ_GUI](bad.png)
